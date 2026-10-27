@@ -29,7 +29,3 @@ Internet connection for the MathJax renderer; plots are embedded in the file.
 Source repository: https://github.com/ucsc-cse-242/assignments
 Source commit: 4a1ac214a08183c0323ceb2850819c57dba6268b
 Source directory: Assignment2
-
-中文说明：所有题目的解答与代码已完成，Notebook 已保留输出。
-姓名和学号已填写：Jiawei Mao，2252678。提交前请核对内容。
-此作业仅在本地完成，没有代交 Canvas 或发布到 GitHub。
