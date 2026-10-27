@@ -1,4 +1,4 @@
-CSE 242 Assignment 2 — local completed version‘
+CSE 242 Assignment 2 
 
 Name and Student ID: Jiawei Mao, 2252678.
 
